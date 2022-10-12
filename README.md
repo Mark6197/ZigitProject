@@ -7,7 +7,7 @@ In order to run the project:
 4. In backend run update-database via package manager console in order to generate the db with the data
 5. Run the web api
 
-That it, you should be able to connect, 
+Thats it, you should be able to connect, 
 the server should be exposed on port 7097 for https requests, 
 if for some reason the port on your machine is different you can change it in the .env file in the client
 
