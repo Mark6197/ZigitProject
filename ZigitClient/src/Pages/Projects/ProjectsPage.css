@@ -1,0 +1,11 @@
+.detailsWrapper {
+  display: flex;
+}
+
+.detailsTextWrapper {
+  padding-left: 20px;
+}
+
+.avatar {
+  width: 100px;
+}
